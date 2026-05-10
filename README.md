@@ -1,28 +1,22 @@
 <div align="center">
 
-<h2 style="text-decoration: none; border: none;">👋 Hey there! My name is Daniel!</h2>
+### 👋 Hey there! My name is Daniel!
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none;">
-      <p style="font-size: 16px;">
-        ⚡ Energetic & funny - I can sense the vibe of any room<br>
-        🎯 Highly practical & efficient<br>
-        📚 Always learning & planning to make things work perfectly<br>
-        💻 <b>DevOps & Linux enthusiast</b> - ditched Windows!<br>
-        🌐 Built a few <b>websites</b><br>
-        📍 Based in <b>Bucharest</b>
-      </p>
-    </td>
-    <td valign="top" align="center" style="border: none;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" width="200"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p style="font-size: 16px; text-align: left; display: inline-block; vertical-align: top; margin-right: 20px;">
+    ⚡ Energetic & funny - I can sense the vibe of any room<br>
+    🎯 Highly practical & efficient<br>
+    📚 Always learning & planning to make things work perfectly<br>
+    💻 <b>DevOps & Linux enthusiast</b> - ditched Windows!<br>
+    🌐 Built a few <b>websites</b><br>
+    📍 Based in <b>Bucharest</b>
+  </p>
+  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" height="140" />
+</div>
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-<h2 style="text-decoration: none; border: none;">🛠️ Technologies</h2>
+### 🛠️ Technologies
 
 ### ⚙️ DevOps
 
@@ -89,7 +83,7 @@
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-<h2 style="text-decoration: none; border: none;">🚀 Projects</h2>
+### 🚀 Projects
 
 <div align="center">
   <a href="https://github.com/AstroLumina-by-Carmen-Ilie">
@@ -99,13 +93,13 @@
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-<h2 style="text-decoration: none; border: none;">📊 Activity Graph</h2>
+### 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PirvuDanielCatalin&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true)
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-<h2 style="text-decoration: none; border: none;">📫 Contact</h2>
+### 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirvu-daniel-catalin/)
@@ -113,6 +107,6 @@
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 
-<h2 style="text-decoration: none; border: none;">💻 Check Out My Repos ⬇️</h2>
+### 💻 Check Out My Repos ⬇️
 
 </div>

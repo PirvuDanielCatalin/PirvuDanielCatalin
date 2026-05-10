@@ -2,17 +2,20 @@
 
 ### 👋 Hey there! My name is Daniel!
 
-<div align="center">
-  <p style="font-size: 16px; text-align: left; display: inline-block; vertical-align: top; margin-right: 20px;">
-    ⚡ Energetic & funny - I can sense the vibe of any room<br>
-    🎯 Highly practical & efficient<br>
-    📚 Always learning & planning to make things work perfectly<br>
-    💻 <b>DevOps & Linux enthusiast</b> - ditched Windows!<br>
-    🌐 Built a few <b>websites</b><br>
-    📍 Based in <b>Bucharest</b>
-  </p>
-  <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" height="140" />
-</div>
+<table><tr><td width="66%">
+
+⚡ Energetic & funny - I can sense the vibe of any room<br>
+🎯 Highly practical & efficient<br>
+📚 Always learning & planning to make things work perfectly<br>
+💻 <b>DevOps & Linux enthusiast</b> - ditched Windows!<br>
+🌐 Built a few <b>websites</b><br>
+📍 Based in <b>Bucharest</b>
+
+</td><td width="34%" align="right">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" width="100%" />
+
+</td></tr></table>
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 

@@ -2,10 +2,13 @@
   
 ### 👋 Hey there! My name is Daniel!
 
-<div align="left">
+</div>
+
 <br>
+
 <div align="left">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" height="150" align="right" position="absolute" float="right"/>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" height="140" align="right"/>
 
 <div>
 ⚡ Energetic & funny - I can sense the vibe of any room<br>

@@ -2,7 +2,8 @@
 
 ### 👋 Hey there! My name is Daniel!
 
-<table><tr><td width="66%">
+<div style="display: inline-block; width: 100%;">
+<div style="display: inline-block; width: 66%; vertical-align: top;">
 
 ⚡ Energetic & funny - I can sense the vibe of any room<br>
 🎯 Highly practical & efficient<br>
@@ -11,11 +12,13 @@
 🌐 Built a few <b>websites</b><br>
 📍 Based in <b>Bucharest</b>
 
-</td><td width="34%" align="right">
+</div>
+<div style="display: inline-block; width: 33%; vertical-align: top; text-align: right;">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" width="100%" />
 
-</td></tr></table>
+</div>
+</div>
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 

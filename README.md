@@ -1,23 +1,19 @@
 <div align="center">
-
+  
 ### 👋 Hey there! My name is Daniel!
 
-<div style="columns: 2; column-gap: 20px;">
-<div>
+<div align="left">
+<br>
+<div align="left">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" height="150" align="right" position="absolute" float="right"/>
 
+<div>
 ⚡ Energetic & funny - I can sense the vibe of any room<br>
 🎯 Highly practical & efficient<br>
 📚 Always learning & planning to make things work perfectly<br>
 💻 <b>DevOps & Linux enthusiast</b> - ditched Windows!<br>
 🌐 Built a few <b>websites</b><br>
 📍 Based in <b>Bucharest</b>
-
-</div>
-<div>
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxwaWRpZjFhZGhwc3FhMjR3Z2d6emtwbzluOWhoMHVwcWo1cTE1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Coding GIF" width="60%" />
-
-</div>
 </div>
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
@@ -91,11 +87,9 @@
 
 ### 🚀 Projects
 
-<div align="center">
-  <a href="https://github.com/AstroLumina-by-Carmen-Ilie">
-    <img src="https://pub-3a468a81beab43daa28dba00d60409d6.r2.dev/logo/Banner.png" alt="AstroLumina" width="400"/>
-  </a>
-</div>
+<a href="https://github.com/AstroLumina-by-Carmen-Ilie">
+  <img src="https://pub-3a468a81beab43daa28dba00d60409d6.r2.dev/logo/Banner.png" alt="AstroLumina" width="400"/>
+</a>
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 

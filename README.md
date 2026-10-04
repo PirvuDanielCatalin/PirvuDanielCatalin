@@ -98,7 +98,7 @@
 
 ### 📊 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PirvuDanielCatalin&bg_color=0d1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PirvuDanielCatalin&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr style="border: 2px solid #30363d; border-radius: 5px;">
 

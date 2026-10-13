@@ -90,7 +90,7 @@
 
 ### 🚀 Projects
 
-<a href="https://github.com/AstroLumina-by-Carmen-Ilie">
+<a href="https://github.com/AstroLumina-Rise-n-Shine">
   <img src="https://pub-3a468a81beab43daa28dba00d60409d6.r2.dev/logo/Banner.png" alt="AstroLumina" width="400"/>
 </a>
 
